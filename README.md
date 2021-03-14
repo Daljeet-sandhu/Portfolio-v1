@@ -1,4 +1,4 @@
 ## Portfolio version 1 
 
-### LINK: https://dalinhuang99.github.io/
+### LINK: https://daljeet-v1.netlify.app/
 
